@@ -9,8 +9,8 @@ import os
 
 payload = {
     'action': 'login',
-    'username': 'f2015533',
-    'password': '^Bitslife$005'
+    'username': 'f201xxxx',
+    'password': 'xxx'
 }
 
 # with session() as c:
@@ -43,6 +43,3 @@ with session() as c:
 # tree = html.fromstring(response.content)
 # sid062956
 # '//div[@class="buyer-name"]/text()'
-
-# f2015327
-# goodgodChinm@y1
